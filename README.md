@@ -1,2 +1,2 @@
-# DSA-LeetCode
+#DSA LEETCODE
 #SQL-50
