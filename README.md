@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/rokhitbeast/leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/rokhitbeast/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rokhitbeast/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/rokhitbeast/leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/rokhitbeast/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
