@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1045-customers-who-bought-all-products](https://github.com/rokhitbeast/leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/rokhitbeast/leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
